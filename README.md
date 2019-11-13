@@ -12,7 +12,7 @@ This github contains the Databricks notebooks for the mini-workshop
 * Note: it will take a minute or two to finish creating a single node cluster.  Once that is complete, a green dot will appear next to the cluster name
 
 ## Import The Notebooks
-* Copy this URL 
+* Copy this URL - https://github.com/hluu/qcon-miniworkshop/blob/master/QConSF-2019.dbc
 * Click on the <b>Workspace</b> icon on the left side bar
 * Click on the down arrow to the right of the <b>Workspace</b> then select "Import" menu option
 * In the "Import Notebooks" dialog box, select the "URL" radio button and then paste the URL into the box
